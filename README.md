@@ -37,9 +37,9 @@ python exporter.py
 {
 	"rpc": "the rpc endpoint of an axelar node (usually port 26657)",
 	"host": "<ip to listen on>",
-	"port": <port to listen on>,
+	"port": "<port to listen on (remove double quotes)>",
 	"watch": "<the axelar validator to monitor>",
-	"chains": [<a comma separated list of lowercase strings with chains to monitor>]
+	"chains": ["a comma separated list of lowercase strings with chains to monitor"]
 }
 ```
 
