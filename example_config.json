@@ -1,0 +1,22 @@
+{
+	"rpc": "http://127.0.0.1:26657",
+	"host": "0.0.0.0",
+	"port": 9008,
+	"watch": "axelarvaloper1v2n7lleh4gn8gjfjhrrelvl4v2saqqlf48rwf5",
+	"chains": [
+		"arbitrum",
+		"avalanche",
+		"binance",
+		"celo",
+		"ethereum",
+		"fantom",
+		"filecoin",
+		"kava",
+		"hero",
+		"moonbeam",
+		"polygon",
+		"optimism",
+		"linea",
+		"base"
+	]
+}
